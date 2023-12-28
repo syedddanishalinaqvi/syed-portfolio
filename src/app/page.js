@@ -24,7 +24,7 @@ export default function Home() {
   return (
     <>
       <div style={{ display: showSplash ? 'flex' : 'none' }} className="splash-screen">
-        Syed Dansih Ali Naqvi<p>-Portfolio</p>
+        Syed Dansih Ali Naqvi
       </div>
       <div style={{ display: showSplash ? 'none' : '' }} className='homepage'>
         <div className="border">
