@@ -1,0 +1,26 @@
+.navbar{
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 40px;
+    z-index: 10;
+}
+.navbar>div{
+    padding-bottom: 4vh;
+}
+.navbar>div>h2{
+    font-size: 3vh;
+    font-weight: 400;
+}
+.navbar>div>p{
+    font-weight: 250;
+}
+.navbar>a{
+    text-decoration: none;
+    font-size: 2vh;
+    font-weight: 500;
+    color:black ;
+    margin-bottom: 15px;
+}
