@@ -14,17 +14,14 @@ body {
   background-color: rgb(224, 217, 217);
 }
 .splash-screen {
-  font-size: 4vh;
-  font-weight: 400;
+  font-size: 2rem;
+  font-weight: 50;
+  display: flex;
   justify-content: center;
   align-items: center;
   height: 100vh;
   width: 100vw;
   background-color: rgb(224, 217, 217);
-}
-.splash-screen>p{
-  font-size:4vh;
-  font-weight:100;
 }
 
 .border {

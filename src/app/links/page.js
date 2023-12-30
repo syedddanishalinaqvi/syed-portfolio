@@ -19,18 +19,18 @@ const page = () => {
                 <div className="links-content">
                     <Navbar />
                     <div className="links">
-                        <Link href="/"><div>
+                        <Link href="https://www.linkedin.com/in/syeddanishalinaqvi/"><div>
                         <Image src={linkedin} height={40} />
                             <p>LinkedIn</p></div></Link>
-                        <Link href="/"><div>
+                        <Link href="https://www.github.com/syedddanishalinaqvi/"><div>
                         <Image src={github} height={40} />
-                            <p>2023/E-Commerce</p></div></Link>
-                        <Link href="/"><div>
+                            <p>Github</p></div></Link>
+                        <Link href="https://twitter.com/naqvii99"><div>
                         <Image src={twitter} height={40} />
-                            <p>2023/MERN stack</p></div></Link>
-                        <Link href="/"><div>
+                            <p>Twitter</p></div></Link>
+                        <Link href="https://www.instagram.com/sydan.codes/"><div>
                         <Image src={instagram} height={40} />
-                            <p>2023/React app</p></div></Link>
+                            <p>Instagram</p></div></Link>
                     </div>
                 </div>
             </div>
