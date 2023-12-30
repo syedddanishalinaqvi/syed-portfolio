@@ -14,3 +14,6 @@
     text-wrap: wrap;
     padding: 20px;
   }
+  .links>a>div>img{
+    filter: brightness(0%);
+  }
